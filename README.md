@@ -1,4 +1,4 @@
-# Addidas Saled Data:
+# Addidas Sales Data:
 # Data Cleaning Steps Performed:
  <br>
  1.🧹 Removed Rows with Missing Values:
